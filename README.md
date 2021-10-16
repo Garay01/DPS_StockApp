@@ -9,9 +9,10 @@
 ## Diseño UI
 
 El proyecto tiene sus diseños y pantallas echas previamente en Figma, puede acceder a este apartado por medio del siguiente enlace
-[Ver diseño de las pantallas (Mockups) Figma -> Prototipo](https://www.figma.com/proto/An2nYNH1XZ1NRKS2ncoCYL/StockApp?page-id=1%3A2&node-id=1%3A2&viewport=367%2C48%2C0.19&scaling=min-zoom)
+.
+[Ver diseño de las pantallas (Mockups) Figma -> Prototipo 📱](https://www.figma.com/proto/An2nYNH1XZ1NRKS2ncoCYL/StockApp?page-id=1%3A2&node-id=1%3A2&viewport=367%2C48%2C0.19&scaling=min-zoom)
 
-[Ver diseño de las pantallas (Mockups) Figma -> Editable](https://www.figma.com/file/An2nYNH1XZ1NRKS2ncoCYL/StockApp?node-id=1%3A2)
+[Ver diseño de las pantallas (Mockups) Figma -> Editable 🎨](https://www.figma.com/file/An2nYNH1XZ1NRKS2ncoCYL/StockApp?node-id=1%3A2)
 
 ## Descripción del proyecto
 
