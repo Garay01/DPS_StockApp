@@ -14,6 +14,20 @@ El proyecto tiene sus diseños y pantallas echas previamente en Figma, puede acc
 
 [Ver diseño de las pantallas (Mockups) Figma -> Editable 🎨](https://www.figma.com/file/An2nYNH1XZ1NRKS2ncoCYL/StockApp?node-id=1%3A2)
 
+## Manuales del Aplicativo
+
+En los siguientes enlaces podrá visualizar los manuales técnico y del usuario, cada uno desarrollado con la herramienta de canvas.
+
+[Ver manual técnico ->](https://drive.google.com/file/d/1dxt2Y0ofLmgNkeB9BM36vbCm5hn6o_41/view)
+
+[Ver manual de usuario ->](https://drive.google.com/file/d/1oGrzUatKzEddpm3xah02FgKqTSWEhBrI/view)
+
+## Video del funcionamiento del aplicativo
+
+El siguiente video dura 5 minutos y explica brevemente sobre el funcionamiento de la aplicación sobre lo que se tiene actualmente y lo que hace falta por desarrollar:
+
+[Ver video ->](https://www.youtube.com/watch?v=Fus4FrcdkIs)
+
 ## Descripción del proyecto
 
 Este proyecto pretende agilizar y mejorar los procesos de la alcaldía minicipal de Ilopango, específicamente en el departamento de tecnología el cual requiere automatizar un proceso interno que actualmente se lleva de forma manual "Control de inventario de respuestos y accesorios", a tráves de la creación de una aplicación web que gestione los inventarios.
